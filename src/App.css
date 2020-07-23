@@ -1,0 +1,33 @@
+body{
+  background-image: url('desert2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#container{
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#hourse{
+
+width: 400px;
+height: 299px;
+margin-top: 498px;
+}
+#hourse img{
+
+height: 300px;
+width: 400px;
+}
+#parot{
+
+margin-right: 800px;
+margin-top: 590px;
+
+}
+#parot img{
+
+width: 200px;
+height: 200px;
+}
